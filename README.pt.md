@@ -1,3 +1,9 @@
+<div align="right" >
+   <a href="./README.en.md">
+    <img src="./.github/lg-button-en.png" alt="es-en" ></img>
+  </a>
+</div>
+
 <div align="center" >
   <h2> :construction: Este projeto ainda está em construção :construction: </h2>
   <br/>
@@ -9,11 +15,9 @@
   
   <a href="./README.md">
     Ei.. que tal ler isso em inglês?  
-    <!-- <img src="./.github/en-br.png" alt="pt-br"></img> -->
+    <!-- [![en-badge](./.github/lg-button-en.png)](./README.en.md)  -->
   </a>
 
   <br/><br/>
   <strong>Feito com :white_heart: por iara </strong>
 </div>
-
-<!-- [![en-badge](./.github/es-eb.png)](https://github.com/iaraoliveira/multi-language-readme-template/README.md) -->
