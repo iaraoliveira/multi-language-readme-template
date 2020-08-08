@@ -1,5 +1,5 @@
 <div align="right" >
-   <a href="./README.en.md">
+   <a href="./README.md">
     <img src="./.github/lg-button-en.png" alt="es-en" ></img>
   </a>
 </div>
@@ -15,7 +15,7 @@
   
   <a href="./README.md">
     Ei.. que tal ler isso em inglês?  
-    <!-- [![en-badge](./.github/lg-button-en.png)](./README.en.md)  -->
+    <!-- [![en-badge](./.github/lg-button-en.png)](./README.md)  -->
   </a>
 
   <br/><br/>
