@@ -1,17 +1,17 @@
 <div align="right" >
    <a href="./README.pt.md">
-    <img src="./.github/lg-button-pt.png" alt="pt-br" width="160px" ></img>
+    <img src="../.github/lg-button-pt.png" alt="pt-br" width="160px" ></img>
   </a>
 </div>
 <br/>
 
 <div align="center">
   <img src="../.github/logo.png" alt="Project logo" />
+  <br/>
   <span>Write something nice here</span>
 </div>
 
 
-<!-- Deixe um pequeno index para as pessoas se localizarem -->
 <br/>
 <p align="center">
  <a href="#about">About</a>  • 
@@ -32,7 +32,6 @@
 -->
 
 <br/>
-
 <a name="about"/>
 
 ## :bulb: About the project
@@ -47,11 +46,10 @@
    >  . You can always place a printscreen or a GIF (never underestimate an image)
 
 
-
+<br/>
 <a name="technologies"/>
 
 ## :rocket: Technologies
-<br>
 
    > Sure thing, you used something to build your application. Tell us :) <br/>
    > (just a reminder.. it could be a good idea to put the documentation as a link)
@@ -64,13 +62,12 @@
 
  - [React Native](https://reactnative.dev/)
 
+
 <br/>
-
-
 <a name="how-to-run"/>
 
 ## :computer: How to run
-<br>
+
 
    >  Here you will explain how to inicialize your application <br/>
    >  Yeah, I know, I don't like this part either.. 
@@ -136,9 +133,11 @@ $ npm start
 ```
 
 
+<br/>
 <a name="contributions"/>
 
 ## :handshake: How to contribute
+
 
    > Let other devs know that they can contribute for your project as well
 
@@ -171,7 +170,7 @@ $ git push origin my-feature
 After your pull request is merged, you can delete your branch.
 
 
-
+<br/>
 <a name="license"/>
 
 ## :notebook_with_decorative_cover: License
@@ -185,7 +184,7 @@ After your pull request is merged, you can delete your branch.
 This project is under the MIT license, you can read more about it in [LICENSE](../LICENSE)
 
 
-
+<br/>
 <a name="author"/>
 
 <div align='center'>
