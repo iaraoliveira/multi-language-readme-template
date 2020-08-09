@@ -1,6 +1,6 @@
 <div align="right" >
    <a href="./README.pt.md">
-    <img src="../.github/lg-button-pt.png" alt="pt-br" width="160px" ></img>
+    <img src="../.github/lg-button-pt.png" alt="pt-br" width="180px" ></img>
   </a>
 </div>
 <br/>
@@ -53,7 +53,7 @@
 
    > Sure thing, you used something to build your application. Tell us :) <br/>
    > (just a reminder.. it could be a good idea to put the documentation as a link)
-   
+
     
   . [TypeScript](https://www.typescriptlang.org/) <br/>
 
