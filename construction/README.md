@@ -1,6 +1,6 @@
 <div align="right" >
    <a href="./README.pt.md">
-    <img src="./.github/lg-button-pt.png" alt="pt-br" ></img>
+    <img src="../.github/lg-button-pt.png" alt="pt-br" width="160px" ></img>
   </a>
 </div>
 <br/>
