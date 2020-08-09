@@ -40,10 +40,9 @@ Okay.. But *"why a multi-languaged readme"*?, you may ask.
 
 Well.. if you're still here, let me tell ya a story:
 
-
 <br/>
 
-### :thinking: Should I make my READMEs in Portuguese or English?
+## :thinking: Should I make my READMEs in Portuguese or English?
 <br/>
 
 Even in the beggining of my journey doing READMEs, I was uncomfortable with this question. 
@@ -62,7 +61,7 @@ So, the only way was to do.. both.
 
 <br/>
 
-### :v: My answer is: Do both
+## :v: My answer is: Do both
 <br/>
 
 Considering github does not have any functionallity known by me (until this moment) as a "multi language support" or anything like that, I decided to use in this repo a known workaround that links another README file with the desired language.
@@ -94,7 +93,7 @@ Simple as that.
 
 If you liked this repository and would like to contribute, just open a pull request and i'll happilly review it :white_heart:
 
-And if you have any suggestion, just let me know :upside_down_face:
+And if you have any suggestion, just let me know :)
 
 <br/>
 <div align='center'>
