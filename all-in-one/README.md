@@ -53,14 +53,15 @@
 
    > Sure thing, you used something to build your application. Tell us :) <br/>
    > (just a reminder.. it could be a good idea to put the documentation as a link)
+   
     
- - [TypeScript](https://www.typescriptlang.org/)
+  . [TypeScript](https://www.typescriptlang.org/) <br/>
 
- - [ReactJS](https://reactjs.org/)
+  . [ReactJS](https://reactjs.org/) <br/>
 
- - [Node.js](https://nodejs.org/en/)
+  . [Node.js](https://nodejs.org/en/) <br/>
 
- - [React Native](https://reactnative.dev/)
+  . [React Native](https://reactnative.dev/) <br/>
 
 
 <br/>
