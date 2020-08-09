@@ -1,6 +1,6 @@
 <div align="right" >
    <a href="./README.pt.md">
-    <img src="../.github/lg-button-pt.png" alt="pt-br" width="160px" ></img>
+    <img src="../.github/lg-button-pt.png" alt="read in portuguese" width="180px" ></img>
   </a>
 </div>
 <br/>
@@ -15,11 +15,13 @@
   
   <br/>
   <a href="./README.pt.md" font-size="18px">
-    Hey.. try reading this in portuguese! 
-    <!-- <img src="./.github/pt-br.png" alt="pt-br" width="18px""></img> -->
+    Hey.. try reading this in portuguese!
   </a>
 
 
   <br/><br/>
-  <strong>With :white_heart: by iara </strong>
+  <strong>With :white_heart: by iara</strong>
+  <br/>
+  <a href="https://www.linkedin.com/in/iara/">Let's talk</a>
+
 </div>

@@ -1,6 +1,6 @@
 <div align="right" >
    <a href="./README.md">
-    <img src="../.github/lg-button-en.png" alt="es-en" width="160px" ></img>
+    <img src="../.github/lg-button-en.png" alt="leia em inglês" width="180px" ></img>
   </a>
 </div>
 <br/>
@@ -16,10 +16,11 @@
   <br/>
   
   <a href="./README.md">
-    Ei.. que tal ler isso em inglês?  
-    <!-- [![en-badge](./.github/lg-button-en.png)](./README.md)  -->
+    Ei.. que tal ler isso em inglês?
   </a>
 
   <br/><br/>
-  <strong>Feito com :white_heart: por iara </strong>
+  <strong>Feito com :white_heart: por iara</strong>
+  <br/>
+  <a href="https://www.linkedin.com/in/iara/">entre em contato</a>
 </div>
