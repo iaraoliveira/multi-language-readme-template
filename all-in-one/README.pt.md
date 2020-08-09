@@ -1,6 +1,6 @@
 <div align="right" >
     <a href="./README.md">
-    <img src="./.github/lg-button-en.png" alt="es-en" width="160px" ></img>
+    <img src="../.github/lg-button-en.png" alt="es-en" width="160px" ></img>
   </a>
 </div>
 <br/>
@@ -8,6 +8,7 @@
 <!-- Coloque sua logomarca aqui -->
 <div align="center">
   <img src="../.github/logo.png" alt="Logomarca do Projeto" />
+  <br/>
   <span>Escreva algo legal aqui</span>
 </div>
 
@@ -33,10 +34,8 @@
 -->
 
 <br/>
-
 <a name="sobre"/>
 
-<!-- faça um resumo do projeto -->
 ## :bulb: Sobre o projeto
 
   Descreva o seu projeto aqui. <br/>
@@ -49,30 +48,29 @@
    >  . Coloque uma foto ou um GIF das telas (as pessoas visuais vão te agradecer, sem falar que fica bem bonito)
 
 
+<br/>
 <a name="tecnologias"/>
 
-<!-- informe as tecnologias utilizadas -->
 ## :rocket: Tecnologias
-<br>
 
    > Você com certeza usou alguma coisa pra construir sua aplicação. Coloque aqui. <br/>
    > (inclusive, colocar a documentação oficial da ferramenta pode ser uma boa também)
+
     
- - [TypeScript](https://www.typescriptlang.org/)
+  . [TypeScript](https://www.typescriptlang.org/) <br/>
 
- - [ReactJS](https://reactjs.org/)
+  . [ReactJS](https://reactjs.org/) <br/>
 
- - [Node.js](https://nodejs.org/en/)
+  . [Node.js](https://nodejs.org/en/) <br/>
 
- - [React Native](https://reactnative.dev/)
+  . [React Native](https://reactnative.dev/) <br/>
+
 
 <br/>
-
 <a name="pre-requisitos"/>
 
 <!-- explique como executar o projeto localmente -->
 ## :computer: Como executar o projeto
-<br>
 
    >  De nada adianta você explicar tudo o que o projeto faz, disponibilizar o código 
    > e não explicar como inicializar o projeto. <br/>
@@ -141,7 +139,7 @@ $ npm start
 
 ```
 
-<!-- explique como fazer para contribuir -->
+<br/>
 <a name="contribuic-ao"/>
 
 ## :handshake: Como contribuir
@@ -175,8 +173,7 @@ $ git push origin my-feature
 
 Depois que seu merge request for aceito, você pode deletar sua branch
 
-
-<!-- identifique a licença que está utilizando e deixe um link para ela -->
+<br/>
 <a name="licenc-a"/>
 
 ## :notebook_with_decorative_cover: Licença
@@ -193,7 +190,7 @@ Depois que seu merge request for aceito, você pode deletar sua branch
 Este projeto está sob licença MIT, para saber mais, acesse o arquivo [LICENSE](../LICENSE)
 
 
-<!-- sua hora de brilhar -->
+<br/>
 <a name="autor"/>
 
 <div align='center'>
