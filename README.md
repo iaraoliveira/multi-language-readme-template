@@ -26,7 +26,7 @@ Feel free to copy them and modify for your own purposes
 
 - [x] [In construction](./construction) - For those repos that doesn't have notthing yet <br/>
 
-- [x] [All-in-one](./all-in-on) - The readme for monorepos <br/>
+- [x] [All-in-one](./all-in-one) - The readme for monorepos <br/>
 
 - [ ] [Mobile](./mobile) - A template for mobile apps <br/>
 
